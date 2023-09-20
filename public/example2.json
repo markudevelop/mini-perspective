@@ -1,0 +1,30 @@
+{
+  "name": "My awesome funnel",
+  "bgColor": "#F5F5F5",
+  "pages": [
+    {
+      "id": "5b42cc0dc973441e9c83a1970bbaf810",
+      "blocks": [
+        {
+          "id": "0879f6c1d6b94be7b61d3c99543713a1",
+          "type": "text",
+          "text": "See you again!",
+          "color": "#202020",
+          "align": "left"
+        },
+        {
+          "id": "9f2f25ad177843b6b7fc81811b4f090c",
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1578986568501-a6c637652d24?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80"
+        },
+        {
+          "id": "218fb0f6146b4728ad0b19e3b1084a16",
+          "type": "button",
+          "text": "Visit our website next time!",
+          "color": "white",
+          "bgColor": "#0076FF"
+        }
+      ]
+    }
+  ]
+}
